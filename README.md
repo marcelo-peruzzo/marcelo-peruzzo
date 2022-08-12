@@ -20,7 +20,7 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=typescript&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-<img alt="Material UI" src="https://img.shields.io/badge/-Material UI-0081CB?style=flat&logo=mui&logoColor=white" />
+<img alt="Tailwindcss" src="https://img.shields.io/badge/-tailwindcss-0081CB?style=flat&logo=mui&logoColor=white" />
 <img alt="VisualCode Studio" src="https://img.shields.io/badge/-Visual Code Studio-0078d8?style=flat&logo=visual-studio-code&logoColor=white" />
 <img alt="AdobeXD" src="https://img.shields.io/badge/-AdobeXD-470137?style=flat&logo=adobexd&logoColor=white" />
 <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" />
