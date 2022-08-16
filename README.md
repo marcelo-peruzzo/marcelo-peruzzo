@@ -3,6 +3,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcelo-peruzzo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-peruzzo&layout=compact&langs_count=7&theme=github_dark"/>
 
+
 #### I am best in  
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
