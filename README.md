@@ -7,11 +7,11 @@
 #### I am best in  
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
+<img alt="C#" src="https://img.shields.io/badge/-C#-8892bf?style=flat&logo=C#&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-8892bf?style=flat&logo=PHP&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
-<img alt="CSharp" src="https://img.shields.io/badge/-CSharp-CA4245?style=flat&logo=CSharp&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 </p>
   
