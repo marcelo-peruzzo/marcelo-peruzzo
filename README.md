@@ -8,7 +8,6 @@
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
 <img alt="C#" src="https://img.shields.io/badge/-CSharp-0078d8?style=flat&logo=csharp&logoColor=white" />
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-8892bf?style=flat&logo=PHP&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
@@ -18,6 +17,7 @@
 #### Other tech that i work or academic experience
   
 <p>
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-8892bf?style=flat&logo=PHP&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=typescript&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
