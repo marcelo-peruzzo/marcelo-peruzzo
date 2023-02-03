@@ -21,7 +21,7 @@
 <br/>   
 <br/>   
   
-<h3>#### Other technology I work with or have academic experience with</h3>
+<h3>#### Other technologies I've worked with or have academic experience with</h3>
   
 <p>
   <img align="center" alt="Marcelo-Php" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
