@@ -4,7 +4,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-peruzzo&layout=compact&langs_count=7&theme=github_dark"/>
 
 
-<h3>#### I am best in</h3>  
+<h3>#### I'm better at the following technologies</h3>  
 <p>
   <img align="center" alt="Marcelo-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Marcelo-Html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -21,7 +21,7 @@
 <br/>   
 <br/>   
   
-<h3>#### Other tech that i work or academic experience</h3>
+<h3>#### Other technology I work with or have academic experience with</h3>
   
 <p>
   <img align="center" alt="Marcelo-Php" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
