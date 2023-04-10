@@ -11,6 +11,7 @@
   <img align="center" alt="Marcelo-Css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" alt="Marcelo-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="Marcelo-Cs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Marcelo-Vb" height="50" width="60" src="https://icon-library.com/images/vb-net-icon/vb-net-icon-22.jpg" style="border-radius: 15%;" />
   <img align="center" alt="Marcelo-dot-net" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img align="center" alt="Marcelo-SqlServer" height="50" width="60" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png"/> 
   <img align="center" alt="Marcelo-Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
