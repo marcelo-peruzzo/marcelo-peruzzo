@@ -14,7 +14,6 @@
   <img align="center" alt="Marcelo-Vb" height="50" width="60" src="https://icon-library.com/images/vb-net-icon/vb-net-icon-22.jpg" style="border-radius: 15%;" />
   <img align="center" alt="Marcelo-dot-net" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img align="center" alt="Marcelo-SqlServer" height="50" width="60" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png"/> 
-  <img align="center" alt="Marcelo-Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Marcelo-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Marcelo-GitHub" height="50" width="60" src="https://www.freeiconspng.com/uploads/github-icon-1.png" />
 </p>
@@ -27,6 +26,7 @@
 <p>
   <img align="center" alt="Marcelo-Php" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Marcelo-React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Marcelo-Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Marcelo-MySql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Marcelo-Figma" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  
 </p>
