@@ -25,7 +25,6 @@
   
 <p>
   <img align="center" alt="Marcelo-Php" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Marcelo-React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Marcelo-Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Marcelo-MySql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Marcelo-Figma" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  
